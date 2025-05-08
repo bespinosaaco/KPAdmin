@@ -1,6 +1,6 @@
 .streamlit/secrets.toml
 .streamlit/config.yaml
-.assets/filled_forms
+assets/filled_forms
 .github
 .devcontainer
 .idea
